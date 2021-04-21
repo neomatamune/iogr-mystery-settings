@@ -1,0 +1,80 @@
+{
+   "Difficulty":{
+      "Easy":50,
+      "Normal":50,
+      "Hard":0,
+      "Extreme":0
+   },
+   "Goal":{
+      "Dark gaia":80,
+      "RJH":20,
+      "Apo Gaia":0,
+      "Random Gaia":0
+   },
+   "Statues":{
+      "0":0,
+      "1":0,
+      "2":0,
+      "3":10,
+      "4":10,
+      "5":10,
+      "6":10,
+      "Random":0
+   },
+   "StartingLocation":{
+      "South Cape":80,
+      "Safe":20,
+      "Unsafe":0,
+      "Forced Unsafe":0
+   },
+   "Logic":{
+      "Completable":90,
+      "Beatable":10,
+      "Chaos":0
+   },
+   "OpenWorld":{
+      "On":20,
+      "Off":80
+   },
+   "Zelda3Mode":{
+      "On":10,
+      "Off":90
+   },
+   "AllowGlitches":{
+      "On":0,
+      "Off":100
+   },
+   "HealthVariant":{
+      "None":100,
+      "Red Jewel Madness":0,
+      "One Hit KO":0
+   },
+   "EarlyFirebird":{
+      "On":80,
+      "Off":20
+   },
+   "Enemizer":{
+      "None":100,
+      "Limited":0,
+      "Balanced":0,
+      "Full":0,
+      "Insane":0
+   },
+   "BossShuffle":{
+      "On":0,
+      "Off":100
+   },
+   "EntranceShuffle":{
+      "None":100,
+      "Coupled":0,
+      "Uncoupled":0
+   },
+   "OverworldShuffle":{
+      "On":0,
+      "Off":100
+   },
+   "Spoiler":{
+      "On":50,
+      "Off":50
+   }
+}
