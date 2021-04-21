@@ -99,17 +99,17 @@ And you need at least 1 value superior to 0 per category.
 
 ## Description of the files
 
-### [Beginner](./Beginner.json)
+### [Beginner](Vault/Beginner.json)
 
 This file was made to be fun for beginners to the randomizer, no hard mode was added, and the number of statues required should always allow the player to get an easy fight against Dark Gaia.
 
 A small quantity of alternate mode can give a bit of freshness between seeds.
 
-### [Neo's Favorite](./NeosFavorite.json)
+### [Neo's Favorite](Vault/NeosFavorite.json)
 
 This file was made by Neomatamune using his favorite weights. (The creator of this vault)
 
-### [Weekly](./Weekly.json)
+### [Weekly](Vault/Weekly.json)
 
 Those setting are the result of a cooperative effort in the IoGR community to get each player preferences a shot. They are the settings used by default on the [mystery webpage](https://iogr.app/mystery) and are the settings used to roll the weekly seeds of the community.
 
