@@ -109,9 +109,14 @@ A small quantity of alternate mode can give a bit of freshness between seeds.
 
 This file was made by Neomatamune using his favorite weights. (The creator of this vault)
 
-### [Weekly](Vault/Weekly.json)
+### [Weekly_S1](Vault/Weekly_S1.json)
 
 Those setting are the result of a cooperative effort in the IoGR community to get each player preferences a shot. They are the settings used by default on the [mystery webpage](https://iogr.app/mystery) and are the settings used to roll the weekly seeds of the community.
+Those were the setting used for the first season of the weeklies.
+
+### [Weekly_S2](Vault/Weekly_S2.json)
+
+Those are the settigns used for the 2nd season of the weeklies.
 
 ## How to contribute ?
 
