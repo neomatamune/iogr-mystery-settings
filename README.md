@@ -105,6 +105,10 @@ This file was made to be fun for beginners to the randomizer, no hard mode was a
 
 A small quantity of alternate mode can give a bit of freshness between seeds.
 
+### [No Weights](Vault/NoWeight.json)
+
+Everything is at 1, good luck :)
+
 ### [Neo's Favorite](Vault/NeosFavorite.json)
 
 This file was made by Neomatamune using his favorite weights. (The creator of this vault)
@@ -116,7 +120,11 @@ Those were the setting used for the first season of the weeklies.
 
 ### [Weekly_S2](Vault/Weekly_S2.json)
 
-Those are the settigns used for the 2nd season of the weeklies.
+Those are the settigns used for the 2nd season of the weeklies. (Finished August 6 2021)
+
+### [Weekly_S3](Vault/Weekly_S3.json)
+
+Those are the settigns used for the 3rd season of the weeklies.
 
 ## How to contribute ?
 
