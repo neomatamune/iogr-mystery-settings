@@ -1,0 +1,89 @@
+{
+  "Difficulty": {
+    "Easy": 20.34,
+    "Normal": 37,
+    "Hard": 27.55,
+    "Extreme": 15.12
+  },
+  "Goal": {
+    "DarkGaia": 50.41,
+    "RedJewelHunt": 21.56,
+    "ApocalypseGaia": 10.77,
+    "RandomGaia": 17.26
+  },
+  "Statues": {
+    "0": 6.66,
+    "1": 6.05,
+    "2": 10.25,
+    "3": 20.23,
+    "4": 17.83,
+    "5": 6.26,
+    "6": 5.32,
+    "Random": 27.40
+  },
+  "StatuesReq": {
+    "GameChoice": 33.82,
+    "PlayerChoice": 18.25,
+    "Random": 33.97
+  },
+  "StartingLocation": {
+    "SouthCape": 30.65,
+    "Safe": 29.32,
+    "Unsafe": 24.22,
+    "ForcedUnsafe": 15.81
+  },
+  "Logic": {
+    "Completable": 31.56,
+    "Beatable": 23.67,
+    "Chaos": 44.77
+  },
+  "OpenWorld": {
+    "On": 21.38,
+    "Off": 78.62
+  },
+  "Zelda3Mode": {
+    "On": 23.24,
+    "Off": 76.76
+  },
+  "AllowGlitches": {
+    "On": 22.29,
+    "Off": 77.71
+  },
+  "HealthVariant": {
+    "None": 82.30,
+    "RedJewelMadness": 16.44,
+    "OHKO": 1.26
+  },
+  "EarlyFirebird": {
+    "On": 65.43,
+    "Off": 34.57
+  },
+  "Enemizer": {
+    "None": 63.87,
+    "Limited": 15.48,
+    "Balanced": 12.45,
+    "Full": 4.88,
+    "Insane": 3.31
+  },
+  "BossShuffle": {
+    "On": 31.03,
+    "Off": 68.97
+  },
+  "EntranceShuffle": {
+    "None": 82.31,
+    "Coupled": 10.47,
+    "Uncoupled": 7.22
+  },
+  "OverworldShuffle": {
+    "On": 36.51,
+    "Off": 63.49
+  },
+  "Fluteless": {
+    "On": 11.71,
+    "Off": 82.09
+  },
+  "Spoilers": {
+    "On": 15.80,
+    "Off": 84.20
+  }
+}
